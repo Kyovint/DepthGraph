@@ -16,7 +16,7 @@
 
 
 <div class="container">
-	<h2>Por favor digite su lista de adyacencia en una matriz expresada en sus files y culomnas con llaves y comas</h2>
+	<h2>Por favor digite su lista de adyacencia en una matriz expresada en sus filas y columnas con llaves y comas</h2>
 	<h4>de la sigueinte manera [[1,3],[0,4],[4],[0,1],[0,1,2]]</h4>
 	<input type="" class="inputA" bind:value={adyacencia}>
 	<h2>{adyacencia}</h2>
